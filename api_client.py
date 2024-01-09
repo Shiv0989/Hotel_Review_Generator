@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 class APIClient:
     def __init__(self):
         load_dotenv()
-        api_key = os.environ.get('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')
+        api_key = os.environ.get('Your_API_Key')
         self.client = openai.OpenAI(api_key=api_key)
 
     def generate_summary_with_gpt3(self, points, combined_reviews):
