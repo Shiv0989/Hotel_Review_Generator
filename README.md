@@ -9,8 +9,11 @@ The Hotel Review Summary Generator is a Streamlit-based application tailored for
 To set up the project locally, follow these steps:
 
 -> Clone the repository
+
 -> Navigate to the project directory
--> Install the required dependencies: 
+
+-> Install the required dependencies:
+
 ```python
 pip install -r requirements.txt
 ```
@@ -31,13 +34,13 @@ The application should now be running on http://localhost:8501. Open this URL in
 
 The application is structured into several modules:
 
-data_manager.py: Manages data loading, filtering, and updating.
+1.) data_manager.py: Manages data loading, filtering, and updating.
 
-api_client.py: Handles interactions with the OpenAI API.
+2.) api_client.py: Handles interactions with the OpenAI API.
 
-streamlit_ui.py: Contains the Streamlit interface components.
+3.) streamlit_ui.py: Contains the Streamlit interface components.
 
-main.py: The entry point for the application.
+4.) main.py: The entry point for the application.
 
 ## License:
 
