@@ -1,6 +1,8 @@
 # Hotel Review Generator
 
-![image](https://github.com/Shiv0989/Hotel_Review_Generator/assets/83575973/3d878ec6-574a-48bf-b6da-d3c05ab2c62d)
+<img src="https://github.com/Shiv0989/Hotel_Review_Generator/assets/83575973/7552ce4b-641a-4c63-bdd5-76d2d763ca3d" width="500" />
+
+
 
 
 ## Project Description:
