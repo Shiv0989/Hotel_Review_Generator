@@ -42,6 +42,21 @@ The application is structured into several modules:
 
 4.) main.py: The entry point for the application.
 
+```
+.main/              
+│
+├── README.md       
+│
+├── data_manager.py          
+│
+├── api_client.py      
+│
+├── streamlit_ui.py         
+│
+├── main.py         
+          
+```
+
 ## License:
 
 Hotel Review Generator is [MIT Licensed](https://github.com/Shiv0989/Hotel_Review_Generator/blob/main/LICENSE).
