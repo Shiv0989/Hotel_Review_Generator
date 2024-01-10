@@ -1,4 +1,4 @@
-# Hotel_Review_Generator
+# Hotel Review Generator
 
 ## Project Description:
 
