@@ -1,5 +1,8 @@
 # Hotel Review Generator
 
+![image](https://github.com/Shiv0989/Hotel_Review_Generator/assets/83575973/3d878ec6-574a-48bf-b6da-d3c05ab2c62d)
+
+
 ## Project Description:
 
 The Hotel Review Summary Generator is a Streamlit-based application tailored for auditors in the hospitality industry. It harnesses OpenAI's GPT-3 to transform selected review parameters or brief points into detailed, insightful summaries. Besides, the application offers functionality to filter and summarize reviews based on criteria like hotel name, date, service type, and time, enabling users to focus on specific aspects of customer feedback. This tool is essential for auditors and hotel management teams, providing a quick and efficient way to interpret customer feedback and convert it into actionable insights for service improvement. 
