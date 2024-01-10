@@ -32,8 +32,11 @@ The application should now be running on http://localhost:8501. Open this URL in
 The application is structured into several modules:
 
 data_manager.py: Manages data loading, filtering, and updating.
+
 api_client.py: Handles interactions with the OpenAI API.
+
 streamlit_ui.py: Contains the Streamlit interface components.
+
 main.py: The entry point for the application.
 
 ## License:
